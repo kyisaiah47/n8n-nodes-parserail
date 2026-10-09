@@ -7,9 +7,9 @@
       "kind": "price",
       "sourceUrl": "https://parserail.thecompound.tech/docs/credits",
       "sourceTitle": "ParseRail — Credits & pricing",
-      "asOf": "2026-09-30",
+      "asOf": "2026-10-09",
       "appearsOn": ["README.md"],
-      "lastVerified": "2026-09-30",
+      "lastVerified": "2026-10-09",
       "status": "verified"
     },
     {
@@ -19,9 +19,9 @@
       "kind": "billing-policy",
       "sourceUrl": "https://parserail.thecompound.tech/docs/credits",
       "sourceTitle": "ParseRail — Credits & pricing",
-      "asOf": "2026-09-30",
+      "asOf": "2026-10-09",
       "appearsOn": ["README.md", "credentials/ParseRailApi.credentials.ts"],
-      "lastVerified": "2026-09-30",
+      "lastVerified": "2026-10-09",
       "status": "verified"
     }
   ]
